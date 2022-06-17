@@ -472,6 +472,30 @@ if __name__ == '__main__':
 
 3. 동작 영상
 
+- 걷기, 뛰기 판별
+
+
+https://user-images.githubusercontent.com/103232864/174296542-3a2917ca-7e69-4dd6-b3cf-e66a524f85c1.mp4
+
+
+- 서브모터 
+- 걷는 경우 : 0~90도 2번 움직임
+- 뛰는 경우 : 0~180도 2번움직임
+
+
+- 멀어지기, 가까워지기 판별
+
+
+https://user-images.githubusercontent.com/103232864/174296627-cc580d1f-1fb1-4f7e-b08a-b1b57764b7f1.mp4
+
+
+- 위 2가지 기능 동시 사용
+
+
+
+https://user-images.githubusercontent.com/103232864/174296666-a1c99b67-8a3f-49d1-806b-d901bf204a3f.mp4
+
+
 
 
 
