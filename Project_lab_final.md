@@ -41,8 +41,8 @@
 
 
 => x축의 가속도 측정값의 크기(절대값)을 10초동안 측정하여 평균값을 구한다
-   - 평균값이 1.5 이상 -> 뛰는 상황
-   - 평균값이 1.5 미만 -> 걷는 상황 
+   - 평균값이 1.0 이상 -> 뛰는 상황
+   - 평균값이 1.0 미만 -> 걷는 상황 
  
 2. 가까이 오거나 멀리 가는지 측정
 
@@ -211,14 +211,14 @@ def subscribe(client: mqtt_client):
             y_accel = 0
             z_accel = 0
             count = 0
-            if x_result > 1.5:
+            if x_result > 1.0:
               speak_save("I'm running.")
               speaker_out()
               move_servo(180)
               move_servo(0)  
               move_servo(180)
               move_servo(0) 
-            if x_result < 1.5:
+            if x_result < 1.0:
               speak_save("I'm walking.")
               speaker_out() 
               move_servo(90)
