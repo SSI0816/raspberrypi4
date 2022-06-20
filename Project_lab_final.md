@@ -16,8 +16,8 @@
  
  @ 블록도
  
+![merge_from_ofoct (2)](https://user-images.githubusercontent.com/103232864/174638638-09eee4e3-2368-4a96-b3e5-2817d8d58a72.jpg)
 
- 
 
 @ 측정 원리
 1. 뛰거나 걷는지 측정
