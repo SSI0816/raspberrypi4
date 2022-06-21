@@ -507,10 +507,12 @@ https://user-images.githubusercontent.com/103232864/174296627-cc580d1f-1fb1-4f7e
 https://user-images.githubusercontent.com/103232864/174296666-a1c99b67-8a3f-49d1-806b-d901bf204a3f.mp4
 
 
+----------------------------------------------------------------------------------------
+
+<img width="1084" alt="캡처" src="https://user-images.githubusercontent.com/103232864/174715761-fe36c165-5477-45d8-9cf3-51bba59f1a02.PNG">
 
 
-
-
+----------------------------------------------------------------------------------------
 *사진 출처
  1. Arduino Nano RP2040(https://www.steamrobot.co.kr/shop/item.php?it_id=1578633954)
  2. 걷는 사람(https://www.pngwing.com/ko/free-png-nibwy)
